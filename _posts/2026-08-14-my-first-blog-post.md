@@ -1,10 +1,22 @@
 ---
-title: "My First Blog Post"
+title: "Welcome to My Digital Space"
 date: 2026-08-14
 ---
 
-# My First Blog Post
+# Welcome to My Digital Space
 
-This is my first blog post using Jekyll and GitHub Pages.
+Welcome to my corner of the internet.
 
-I am learning how Jekyll works and how to build websites with GitHub Pages. This is the beginning of my journey, and I look forward to creating more projects and learning new things.
+I'm currently exploring technology, software development, artificial intelligence, and entrepreneurship.
+
+This blog is where I'll document things I learn, projects I build, and ideas I'm exploring.
+
+## What I'm Learning
+
+Right now, I'm learning how to build and publish websites using GitHub Pages and Jekyll.
+
+## What's Next
+
+I'll be sharing projects, experiments, lessons, and ideas here.
+
+**This is just the beginning.**
