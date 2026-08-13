@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog! xoxo !
+title: Welcome to My Digital Space
 ---
